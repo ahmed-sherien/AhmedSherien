@@ -10,7 +10,7 @@ namespace AhmedSherien.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page";
+            ViewBag.Title = "Ahmed Sherien";
 
             return View();
         }
