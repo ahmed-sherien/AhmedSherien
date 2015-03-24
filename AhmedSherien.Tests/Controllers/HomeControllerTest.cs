@@ -19,7 +19,7 @@ namespace AhmedSherien.Tests.Controllers
 
             // Assert
             Assert.IsNotNull(result);
-            Assert.AreEqual("Home Page", result.ViewBag.Title);
+            Assert.AreEqual("Ahmed Sherien", result.ViewBag.Title);
         }
     }
 }
